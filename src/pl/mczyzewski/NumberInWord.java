@@ -40,7 +40,7 @@ public class NumberInWord
                 System.out.println("NINE");
                 break;
             default:
-                System.out.println("NINE");
+                System.out.println("OTHER");
                 break;
         }
     }
